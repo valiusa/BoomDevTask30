@@ -1,7 +1,7 @@
 import React from "react";
 
 // styles
-import styles from "./components/LoginForm.module.css";
+import styles from "./components/LoginForm.module.scss";
 
 function LoginFormComponent() {
   return (
